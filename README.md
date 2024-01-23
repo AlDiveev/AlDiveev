@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nodeJS, TypeScript
 - 💞️ I’m looking to collaborate on something :)
 - 📫 How to reach me alexey.diveev@eurostar.com
-- 😄 Pronouns: she/her/he/him/hey/hem
+- 😄 Pronouns: she/her/he/him/they/them
 - ⚡ Fun fact: I'm beginner pole dancer
 
 <!---
