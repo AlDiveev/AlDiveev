@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning nodeJS, TypeScript
 - 💞️ I’m looking to collaborate on something :)
-- 📫 How to reach me alexey.diveev@eurostar.com
+- 📫 How to reach me 
 - 😄 Pronouns: she/her/he/him/they/them/au/tism
 - ⚡ Fun fact: I'm beginner pole dancer
 
